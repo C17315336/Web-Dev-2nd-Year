@@ -1,0 +1,28 @@
+body {
+    background-image: url("tudublin.png");
+    background-color: #ffffff;
+    background-size: 2000px;
+}
+
+h1 {
+    border-style: solid;
+    border-width: thin;
+}
+
+p {
+    font: 20px arial, sans-serif;
+}
+
+div.a {
+    text-align: right;
+}
+
+table {
+    table-layout: auto;
+    width: 400px; 
+}
+
+p::first-letter { 
+    font-size: 500%;
+    color: #8A2BE2;
+}
