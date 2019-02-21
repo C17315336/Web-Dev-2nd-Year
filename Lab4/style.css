@@ -1,29 +1,36 @@
-.right {
-position:absolute;
-left: 400px;
+div.left {
+  position: absolute;
+  top: ;
+  left: ;
+  width: 300px;
+  height: 200px;
+}
+
+div.right {
+  position: absolute;
+  top: ;
+  left: 400px;
+  width: 300px;
+  height: 200px;
+}
+
+div.left1 {
+  position: absolute;
+  top: 120px;
+  left: 58px;
+  width: 300px;
+  height: 200px;
+}
+
+div.right1 {
+  position: absolute;
+  top: 120px;
+  left: 400px;
+  width: 300px;
+  height: 200px;
 }
     
-.left {
-position:absolute;
-right: 400px;
-padding:10px;
-}
-    
-.left2{
-position:absolute;
-right: 400px;
-padding:10px;
-}
-    
-.right2{
-position:absolute;
-left:400px;
-padding: 10px;
-}
-    
-p.a{
-color: blue;
-}
-    
-img{float: left;
+img{
+    float: left;
+    margin: 10px;
 }
