@@ -1,0 +1,29 @@
+.right {
+position:absolute;
+left: 400px;
+}
+    
+.left {
+position:absolute;
+right: 400px;
+padding:10px;
+}
+    
+.left2{
+position:absolute;
+right: 400px;
+padding:10px;
+}
+    
+.right2{
+position:absolute;
+left:400px;
+padding: 10px;
+}
+    
+p.a{
+color: blue;
+}
+    
+img{float: left;
+}
