@@ -1,0 +1,106 @@
+body{
+
+}
+
+div.banner{
+    padding-left: 0px;
+    background-color: #ffffff;
+}
+
+div.top{
+    padding-left: 25px;
+    background-color: #ffffff;
+
+}
+
+div.side{
+    background-color: #ffffff;
+    float: left;
+    padding-right: 10px;
+}
+
+div.current{
+    padding-top: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+div.first{
+    background-color: #ffffff;
+    padding-left: 20px;
+    width: 700px;
+}
+
+div.second{
+    background-color: #ffffff;
+    padding-right: 0px;
+    width: 700px;
+}
+
+div.firstPic{
+    float: right;
+    padding-left: 10px;
+    padding-right: 0px;
+    padding-top: 10px;
+    margin-bottom: 0px;
+    
+}
+
+div.secondPic{
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin-bottom: 0px;
+    
+}
+
+p.sidetitle{
+    padding-bottom: 10px;
+    padding-left:10px;
+    float: left;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom:0px;
+}
+
+p.team{
+    width:160px;
+    font-size: 14px;
+    padding-left: 20px;
+    margin-top: 0px;
+}
+
+p.p1{
+    background-color: #ffffff;
+    width:100%;
+    margin-top: 10px;
+    padding-left: 0px;
+    color: cadetblue;
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+
+p.p2{
+    width:100%;
+    margin-top: 10px;
+    padding-left:0px;
+    font-size:13px;
+}
+
+p.p3{    
+    background-color: #ffffff;
+    width:100%;
+    margin-top: 0px;
+    padding-left: 0px;
+    color: cadetblue;
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+
+p.p4{
+    width:100%;
+    margin-top: 0px;
+    padding-left:0px;
+    font-size:13px;
+}
