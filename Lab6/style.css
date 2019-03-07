@@ -1,0 +1,49 @@
+body{
+
+}
+
+div.banner{
+    padding-left: 0px;
+}
+
+div.col1{
+    float: left;
+    padding-right: 20px;
+    padding-left: 25px;
+}
+
+div.col2{
+    width: 770px;
+    padding-top: 0px;
+}
+
+div.arrow{
+    float: left;
+    padding-left: 0px;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+
+p.click{
+    float: left;
+    padding-left: 0px;
+    padding-top: 6px;
+    font-size: 11px;
+}
+
+p.form{
+    font-size:11px;
+}
+
+
+ul.list{
+    font-size: 11px;
+    padding-left: 0px;
+    float: left;
+    list-style: square inside url("arrow.gif")
+}
+
+button.newbutton{
+    background: #fff;
+    background-repeat: no-repeat;
+}
