@@ -1,5 +1,5 @@
 body{
-
+    font-family: 'Inconsolata', monospace;
 }
 
 div.banner{
@@ -28,16 +28,16 @@ p.click{
     float: left;
     padding-left: 0px;
     padding-top: 6px;
-    font-size: 11px;
+    font-size: 10px;
 }
 
 p.form{
-    font-size:11px;
+    font-size:10px;
 }
 
 
 ul.list{
-    font-size: 11px;
+    font-size: 10px;
     padding-left: 0px;
     float: left;
     list-style: square inside url("arrow.gif")
@@ -46,4 +46,19 @@ ul.list{
 button.newbutton{
     background: #fff;
     background-repeat: no-repeat;
+}
+
+hr{
+    height: 2px;
+    border: 0;
+    border-top: 1px solid #0000ff;
+    padding-left: 10px;
+    width: 750px;
+    float: left;
+    
+}
+
+input{
+    font-family: 'Inconsolata', monospace;
+    font-size: 10px;
 }
