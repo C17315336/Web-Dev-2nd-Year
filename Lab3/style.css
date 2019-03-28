@@ -10,7 +10,8 @@ h1 {
 }
 
 p {
-    font: 20px arial, sans-serif;
+    font-family: 'Hanalei Fill', cursive;
+    font: 40px;
 }
 
 div.a {
