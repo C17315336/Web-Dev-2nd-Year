@@ -1,0 +1,143 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.topleft{
+    padding-left: 0px;
+    float: left;
+}
+
+div.topright{
+    float: left;
+    padding-left: 20px;
+    margin: auto;
+}
+
+div.low{
+    padding-left: 0px;
+}
+
+div.menu{
+    padding-left: 62px;
+    font-size: 21px;
+}
+
+div.main{
+    float: left;
+    padding-left: 65px;
+    width: 700px;
+}
+
+div.watch{
+    float: left;
+    margin: auto;
+    padding-left: 25px;
+    margin-left: 125px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    width: 700px;
+    border-left: 1px solid grey;
+}
+
+div.video{
+    float: left;
+    margin: auto;
+    padding-left: 25px;
+    margin-left: 125px;
+    margin-bottom: 30px;
+    padding-top: 25px;
+    width: 380px;
+    border-left: 1px solid grey;
+    border-top: 1px solid grey;
+}
+
+div.mainPic{
+    float: right;
+    padding-left: 10px;
+    padding-right: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+}
+
+div.livePic{
+    float: left;
+    padding-left: 0px;
+    padding-right: 20px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+}
+
+img.play{
+    position: absolute;
+    top: 30px;
+    left: 0px;
+}
+
+img.vidPic{
+    float: left;
+    padding-left: 0px;
+    padding-right: 20px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+p.menu{
+    margin: auto;
+}
+
+p.watch{
+    margin: auto;
+    line-height: 30px;
+}
+
+p.videotext{
+    margin: auto;
+    font-weight: bold;
+}
+
+p.time{
+    position: absolute;
+    top: 30px;
+    left: 32px;
+    background-color: rgba(0,0,0,.5);
+    color: white;
+    line-height: 42px;
+    margin: auto; 
+}
+
+p.videoinfo{
+    color: grey;
+    font-size: 12px;
+}
+
+input[type=text] {
+    width: 80%;
+    padding: 10px 30px;
+    margin: 0px 0px;
+    background: rgba(0,0,0,.2);
+}
+
+::placeholder {
+    color: black;
+    font-size: 15px;
+}
+
+a {
+    color: black;
+    text-decoration: none; /* no underline */
+}
+
+u{
+    text-decoration: none;
+    border-bottom: 5px solid #b0181e;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    line-height: 30px;
+}
